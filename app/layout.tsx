@@ -19,7 +19,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Brawl Bank",
+  title: "RoBank",
   description: "A simple banking app",
   icons: {
     icon: '/icons/logo.svg'
